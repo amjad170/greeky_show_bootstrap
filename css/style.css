@@ -1,0 +1,291 @@
+/* class2_css ################################################### */
+/* .btn-primary {
+    background-color: brown;
+} */
+
+/* class3_css ##################################################### */
+/* .first {
+    height: 200px;
+    background-color: red;
+} */
+
+/* class4_css ##################################################### */
+/* .bdr{
+    background-color: blue;
+    height: 40px;
+}
+
+.bdr1{
+    background-color: red;
+    height: 40px;
+}
+
+.bdrchild{
+    background-color: rgb(10, 171, 7);
+    height: 40px;
+} */
+
+/* class5_css ####################################################### */
+/* .cbox{
+    border: 2px solid;
+    height: 500px;
+}
+
+.dbox{
+    border: 2px solid blue;
+} */
+
+/* class6_css ######################################################## */
+/* .cbox{
+    border: 5px solid;
+}
+
+.arow{
+    border: 10px solid yellow;
+}
+
+.adiv{
+    height: 60px;
+    background-color: red;
+}
+
+.bdiv{
+    height: 60px;
+    background-color: gray;
+}
+
+.cdiv{
+    height: 60px;
+    background-color: chocolate;
+}
+.ddiv{
+    height: 60px;
+    background-color: green;
+}
+.ediv{
+    height: 60px;
+    background-color: fuchsia;
+}
+.fdiv{
+    height: 60px;
+    background-color: blue;
+} */
+
+/* class7_css ############################################# */
+/* .cbox{
+    border: 5px solid;
+   
+}
+
+.arow{
+    border: 10px solid yellow;
+ 
+}
+
+.adiv{
+    height: 60px;
+}
+
+.bdiv{
+    height: 60px;
+}
+
+.cdiv{
+    height: 210px;
+}
+.ddiv{
+    height: 60px;
+}
+.ediv{
+    height: 60px;
+}
+.fdiv{
+    height: 60px;
+} */
+
+/* class8_css ############################################# */
+/* .cbox{
+    border: 5px solid;
+}
+
+.arow{
+    border: 10px solid yellow;
+}
+
+.adiv{
+    height: 60px;
+    background-color: red;
+}
+
+.bdiv{
+    height: 60px;
+    background-color: gray;
+}
+
+.cdiv{
+    height: 60px;
+    background-color: chocolate;
+}
+.ddiv{
+    height: 60px;
+    background-color: green;
+}
+.ediv{
+    height: 60px;
+    background-color: fuchsia;
+}
+.fdiv{
+    height: 60px;
+    background-color: blue;
+} */
+
+/* class9_css ############################################# */
+/* .cbox{
+    border: 5px solid;
+}
+
+.arow{
+    border: 10px solid yellow;
+}
+
+.adiv{
+    height: 60px;
+    background-color: red;
+}
+
+.bdiv{
+    height: 60px;
+    background-color: gray;
+}
+
+.cdiv{
+    height: 60px;
+    background-color: chocolate;
+}
+.ddiv{
+    height: 60px;
+    background-color: green;
+}
+.ediv{
+    height: 60px;
+    background-color: fuchsia;
+}
+.fdiv{
+    height: 60px;
+    background-color: blue;
+} */
+
+/* class10_css ############################################# */
+
+/* .adiv{
+    height: 60px;
+    background-color: red;
+}
+
+.bdiv{
+    height: 60px;
+    background-color: gray;
+}
+
+.cdiv{
+    height: 60px;
+    background-color: chocolate;
+}
+.ddiv{
+    height: 60px;
+    background-color: green;
+}
+.ediv{
+    height: 60px;
+    background-color: fuchsia;
+}
+.fdiv{
+    height: 60px;
+    background-color: blue;
+} */
+
+/* class11_css ############################################# */
+
+/* .cbox{
+    border: 3px solid;
+}
+
+.adiv{
+    height: 60px;
+    background-color: red;
+}
+
+.bdiv{
+    height: 60px;
+    background-color: gray;
+}
+
+.cdiv{
+    height: 30px;
+    background-color: chocolate;
+}
+.ddiv{
+    height: 60px;
+    background-color: green;
+}
+.ediv{
+    height: 60px;
+    background-color: fuchsia;
+}
+.fdiv{
+    height: 60px;
+    background-color: blue;
+} */
+
+/* class12_css ############################################# */
+
+.cbox{
+    border: 3px solid;
+}
+
+.adiv{
+    height: 60px;
+    background-color: red;
+}
+
+.bdiv{
+    height: 60px;
+    background-color: gray;
+}
+
+.cdiv{
+    height: 30px;
+    background-color: chocolate;
+}
+.ddiv{
+    height: 60px;
+    background-color: green;
+}
+.ediv{
+    height: 60px;
+    background-color: fuchsia;
+}
+.fdiv{
+    height: 60px;
+    background-color: blue;
+}
+
+/* For 2nd part */
+
+.acol{
+    border: 1px solid red;
+}
+.bcol{
+    border: 1px solid blue;
+}
+.ccol{
+    border: 1px solid green;
+}
+.dcol{
+    border: 1px solid brown;
+}
+
+.row2{
+    width: 100%;
+}
+
