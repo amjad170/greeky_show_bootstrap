@@ -289,3 +289,9 @@
     width: 100%;
 }
 
+/* class10_css############################### */
+.image-col{
+    border: solid red;
+    padding: 5px;
+}
+
