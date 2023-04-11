@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="d-inline p-2 bg-primary text-white">d-inline</div>
+    <div class="d-xl-inline p-2 bg-dark text-white">d-inline</div>
+
+    <hr color="red" />
+
+    <span class="d-block p-2 bg-primary text-white">d-block</span>
+    <span class="d-block p-2 bg-dark text-white">d-block</span>
+
+    <hr color="red" />
+
+    <div class="d-lg-none bg-primary">11111 hide on screens wider than lg</div>
+    <div class="d-none d-lg-block">222222 hide on screens smaller than lg</div>
+
+    <hr color="red" />
+
+    <div class="d-print-none">Screen Only (Hide on print only)</div>
+    <div class="d-none d-print-block">Print Only (Hide on screen only)</div>
+    <div class="d-none d-lg-block d-print-block">
+      Hide up to large on screen, but always show on print
+    </div>
+
+    <hr color="red" />
+
+    <!-- d-print-table,d-print-table-cell,d-print-table-row -->
+
+    <div class="d-print-table">
+      <div class=" d-print-table-row">
+        <div class="d-print-table-cell" style="width:20%">
+           11111 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit porro quae
+            quis iure aliquam repellat deserunt corporis ratione, modi eaque.
+          </div>
+          
+        <div class="d-print-table-cell" style="width:80%">
+           22222 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit porro quae
+            quis iure aliquam repellat deserunt corporis ratione, modi eaque.
+          </div>
+          
+        <div class="d-print-table-cell" style="width:20%">
+           3333 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit porro quae
+            quis iure aliquam repellat deserunt corporis ratione, modi eaque.
+          </div>
+      </div>
+    </div>
+
+    <hr color="red" />
+
+    
+    <!-- d-table,d-table-cell,d-table-row -->
+
+    <div class="d-table">
+        <div class=" d-table-row">
+          <div class="d-table-cell" style="width:20%">
+             11111 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit porro quae
+              quis iure aliquam repellat deserunt corporis ratione, modi eaque.
+            </div>
+            
+          <div class="d-table-cell" style="width:80%">
+             22222 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit porro quae
+              quis iure aliquam repellat deserunt corporis ratione, modi eaque.
+            </div>
+            
+          <div class="d-p-table-cell" style="width:20%">
+             3333 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit porro quae
+              quis iure aliquam repellat deserunt corporis ratione, modi eaque.
+            </div>
+        </div>
+      </div>
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
